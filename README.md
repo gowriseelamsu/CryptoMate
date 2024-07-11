@@ -2,6 +2,8 @@
 
 A simple encryption and decryption tool using base64 encoding.
 
+You can also run this project for reference here https://replit.com/@nagagowrikrishn/CryptoMate
+
 **Features**
 
 Encrypt and decrypt text using a secret key
