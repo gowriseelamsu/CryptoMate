@@ -13,9 +13,13 @@ Supports base64 encoding and decoding
 **Usage**
 
 Run the application by executing the Python script.
+
 Enter the text you want to encrypt or decrypt in the top text box.
+
 Enter the secret key in the password field.
+
 Click the "ENCRYPT" button to encrypt the text or the "DECRYPT" button to decrypt the text.
+
 The encrypted or decrypted text will be displayed in a new window.
 
 **Password**
